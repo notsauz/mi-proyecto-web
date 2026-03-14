@@ -24,6 +24,7 @@ Proyecto web simple para practica de Git
 
 ## Estructura
 
+```
 mi-proyecto-web/
 ├── css/
 │ └── styles.css
@@ -31,3 +32,4 @@ mi-proyecto-web/
 │ └── script.js
 ├── index.html
 └── README.md
+```
