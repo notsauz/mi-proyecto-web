@@ -1,3 +1,3 @@
 document.getElementById('btn').onclick = function() {
-    alert('¡Funciona!');
+    alert('¡Botón mejorado en la rama feature!');
 }
